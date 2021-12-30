@@ -1,0 +1,22 @@
+@import '/src/scss/custom.scss';
+
+@font-face {
+  font-family: 'Outward';
+  src: url('./fonts/outward-master/fonts/webfonts/outward-block-webfont.eot') format('eot');
+  src: url('./fonts/outward-master/fonts/webfonts/outward-borders-webfont.eot') format('embedded-opentype'),
+       url('./fonts/outward-master/fonts/webfonts/outward-borders-webfont.woff2') format('woff2'),
+       url('./fonts/outward-master/fonts/webfonts/outward-borders-webfont.woff') format('woff'),
+       url('./fonts/outward-master/fonts/webfonts/outward-borders-webfont.ttf') format('truetype'),
+       url('./fonts/outward-master/fonts/webfonts/outward-borders-webfont.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+.font-face-outward-nm{
+  font-family: 'Outward';
+  font-weight: normal;
+
+}
+
