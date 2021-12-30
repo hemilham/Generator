@@ -1,0 +1,22 @@
+.Uploader {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+  }
+  label {
+    border: solid 2px #2b2b2b !important;
+    background-color: #2b2b2b;
+    width: auto;
+    color: white;
+    box-sizing: border-box;
+    
+  }
+
+  .border-lbl{
+      border: solid 1px #333333;
+  }
+  

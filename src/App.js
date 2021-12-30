@@ -12,7 +12,9 @@ function App() {
         <div class="font-face-outward-nm">
           <TopBar></TopBar>
         </div> 
-        <ContentPage></ContentPage> 
+        <div>
+        <ContentPage></ContentPage>
+        </div>  
       </div>
     </div>
   );
